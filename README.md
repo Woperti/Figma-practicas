@@ -32,10 +32,6 @@ Pensar en las posibles soluciones.
 Usar un sticky en cada proceso. Ideas de diseno.
 
 ![anadir posibles mejoras con el diseno](./images2/figjam-design.png)
-
-Practica 2. Figma Lo-fi
-
-Crear los siguientes layouts
    
 # Webflow practicas
 
